@@ -1,0 +1,65 @@
+  .active {
+    background-color: #A62C21;
+  }
+  
+
+
+ body {
+    background-color: white;
+  }
+  
+  h1, h2 {
+    color: black;
+    text-align: center;
+    margin-bottom: 2.2rem;
+  }
+  
+  p {
+    font-family: verdana;
+    text-align: justify;
+    font-size: 16px;
+    padding: 20px;
+    
+  }
+
+  .header-banner {
+      margin-bottom: 1.2rem;
+  }
+
+ 
+
+.heading {
+    text-align: justify;
+    margin: auto;
+  }
+
+.col > img {
+  margin-bottom: 1.2rem;
+}
+
+.location {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.google-map {
+  position: relative;
+  margin-left: 1.4rem;
+}
+
+.opening-hours {
+  margin-top: 2rem;
+}
+
+.container > h2 {
+  text-align: left;
+  margin-top: 4rem;
+}
+
+.col-md-4 > img {
+  border-radius: 50%;
+}
+
+.col-md-4 > h4 {
+  margin-bottom: 3rem;
+}
