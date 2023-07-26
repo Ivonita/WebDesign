@@ -3,6 +3,8 @@ function SendButton() {
   }
 
 
+
+
 let drinksMenuUrl = "https://opensheet.elk.sh/1bqU3Y1RL4RIiah4CIV8i1Ll2q8A0xdFYJTpk4w6ZpyA/drinks+menu";
 
 $(document).ready(function(){
@@ -56,3 +58,5 @@ $(document).ready(function(){
     }
   })
 })
+
+
